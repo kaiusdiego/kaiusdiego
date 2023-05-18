@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  # Kaius - Software Engineer
+  # Kaius Rodrigues- Software Engineer
   
   
   ![a](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter
@@ -30,7 +30,7 @@
   ## 🧭 &nbsp;About Me
 
   - 📚 Postgraduate student in Distributed Software Architecture at PUC-MG.
-  - 📚 Bachelor's degree at Federal University of Maranhao - UFMA.
+  - 📚 Bachelor's degree in Computer Science at Federal University of Maranhao - UFMA.
   <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
   - 🌱  I’m always studying **JavaScript**,  **C#**, **NodeJS**, **Software architecture**, **Microservices** and **Go**.
 
