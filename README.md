@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  # Kaius Rodrigues - Software Engineer
+  # Kaius Rodrigues Silva - Software Engineer
   
   
   ![a](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter
@@ -86,7 +86,8 @@
   ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)&nbsp;
   ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)&nbsp;
-  
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
   ###  &nbsp; Database & cache
    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
@@ -132,7 +133,8 @@
   ###  &nbsp; Front
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 )&nbsp;
-
+![React](https://img.shields.io/badge/React-2CA5E0?style=for-the-badge&logo=react&logoColor=white)
+ 
   
 
  
